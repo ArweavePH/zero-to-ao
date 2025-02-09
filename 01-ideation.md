@@ -68,6 +68,7 @@
 - Answering AO tech-related questions.
 
 🔗 **Join our Office Hours & Community Support:** [AO Builders Office Hours](https://x.com/arweaveph/status/1888192764703391814)
+
 Every Monday, Wednesday and Friday, 9PM PHT at Arweave Philippines Discord
 
 ---
