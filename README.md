@@ -35,7 +35,7 @@ Each week is structured with **learning materials, coding exercises, and mentors
    git clone https://github.com/arweaveph/zero-to-ao.git
    cd zero-to-ao
    ```
-2. Read the [Setup Guide](setup.md) to configure your development environment.
+2. Finish the [**Arweave Academy**](https://github.com/ArweaveOasis/Arweave-Academy) and/or [**Balangay Roadshow Lessons 1-4**](https://github.com/ArweavePH/balangay-roadshow)
 3. Join our **Discord community** & weekly [Office Hours](https://x.com/arweaveph/status/1888192764703391814) to ask questions.
 4. Start with **Week 1** and follow the structured guides.
 
@@ -47,6 +47,7 @@ Want to help improve this repo? Read the [Contributing Guide](contributing.md) t
 
 ## 🌟 Resources & Links
 
+- [**Arweave Academy**](https://github.com/ArweaveOasis/Arweave-Academy)
 - [**Balangay Roadshow Lessons 1-4**](https://github.com/ArweavePH/balangay-roadshow)
 - [**AO Mainnet Docs**](https://cookbook_ao.arweave.ph/)
 - [**AO Project Ideas**](https://github.com/ArweavePH/ao-project-ideas)
