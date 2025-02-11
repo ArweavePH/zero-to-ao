@@ -21,12 +21,12 @@ Zero-to-AO is a **six-week guided program** with structured learning, hands-on c
 
 Each week is structured with **learning materials, coding exercises, and mentorship support**:
 
-1. **Week 1:** Ideation & Project Planning
-2. **Week 2:** Kickstarting Development
-3. **Week 3:** First Checkpoint & Feedback
-4. **Week 4:** UX, Performance & Optimization
-5. **Week 5:** Finalizing MVP & Pitch Preparation
-6. **Week 6:** Demo Day & Post-Hackathon Strategies
+1. [**Week 1:**](https://github.com/ArweavePH/zero-to-ao/blob/main/01-ideation.md) Ideation & Project Planning
+2. [**Week 2:**](https://github.com/ArweavePH/zero-to-ao/blob/main/02-kickstart-building.md) Kickstarting Development
+3. **Week 3:**(Coming soon) First Checkpoint & Feedback
+4. **Week 4:**(Coming soon) UX, Performance & Optimization
+5. **Week 5:**(Coming soon) Finalizing MVP & Pitch Preparation
+6. **Week 6:**(Coming soon) Demo Day & Post-Hackathon Strategies
 
 ## 🔥 **How to Get Started**
 
