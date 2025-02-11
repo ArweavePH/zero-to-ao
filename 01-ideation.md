@@ -16,8 +16,9 @@
 
 ### **Step 1: Understanding AO Mainnet Capabilities**
 
+- What's up on [AO mainnet](https://paragraph.xyz/@afmedia/ao-mainnet-is-live)?
 - Read the latest **AO Mainnet Documentation** via [AO Cookbook](https://cookbook_ao.arweave.ph/).
-- Finish Lessons 1-4 at the [Balangay Roadshow Repo](https://github.com/arweaveph/balangay-roadshow)
+- Finish the [Arweave Academy](https://github.com/ArweaveOasis/Arweave-Academy) or Lessons 1-4 at the [Balangay Roadshow Repo](https://github.com/arweaveph/balangay-roadshow)
 - Learn about:
   - AO's **Hyperparallel Supercomputer**
   - AO Message Flow & Holographic State
