@@ -1,5 +1,7 @@
 # Zero-to-AO: The Ultimate Builder's Guide
 
+![Zero-to-AO Banner](https://github.com/ArweavePH/zero-to-ao/blob/main/banner.png?raw=true)
+
 ## 📌 Overview
 
 Welcome to **Zero-to-AO: The Ultimate Builder's Guide**! This initiative is designed to help you transition from learning about **AO** to actively building real-world projects on the **AO Mainnet**.
